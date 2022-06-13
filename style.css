@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    font-family: Arial,sans-serif;
+      background-image: url(https://i.pinimg.com/originals/0c/e9/02/0ce90263bde405e21c544de46982006a.gif)
+  }
+  #school{
+      float:left; 
+  }
+  
+  header{
+      color:chartreuse;
+      font-style: italic;
+      font-size: 50px
+  }
+  .navi{
+      
+      position: fixed;
+          padding: 5px;
+    
+     
+  }
+  button{
+       background-color: coral;
+        border:2px solid green;
+        padding: 3px;
+      border-radius: 30px
+  }
+  aside{
+      float: right;
+      margin-top: 0px
+  }
+  section{
+    font-display: flex;
+      text-align: justify;
+      font-family:cursive
+  }
+  img:hover {
+      transform: scale(1.2);
+  
+    }
